@@ -54,8 +54,8 @@ Personal dictionary web app for learning foreign words.
 
 **Stack:** Laravel 13 • Livewire 4 • PostgreSQL
 
-🔗 Repo:  
-https://github.com/Harumimax/pers-d
+🔗 Visit it:  
+[https://wordkeeper.space/](https://wordkeeper.space/)
 
 ---
 
