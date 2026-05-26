@@ -2,7 +2,15 @@
 
 <div align="center">
 
-### SDM at Nexign • Management • Product Development • Change Management
+<h3>
+  SDM at
+  <svg width="120" height="24" xmlns="http://www.w3.org/2000/svg" style="vertical-align: middle;">
+    <text x="0" y="18" font-size="18" font-weight="bold" font-family="Arial">
+      <tspan fill="#007C3D">Mega</tspan><tspan fill="#7B2CBF">Fon</tspan>
+    </text>
+  </svg>
+  • Management • Product Development • Change Management
+</h3>
 
 <br>
 
