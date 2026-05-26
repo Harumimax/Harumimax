@@ -104,13 +104,15 @@ Using Python and OOP principles.
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Profile Focus
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Harumimax&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harumimax&layout=compact&theme=tokyonight&hide_border=true" />
+![Management](https://img.shields.io/badge/Management-1F6FEB?style=for-the-badge)
+![Team Leadership](https://img.shields.io/badge/Team%20Leadership-0E8A16?style=for-the-badge)
+![Product Development](https://img.shields.io/badge/Product%20Development-8250DF?style=for-the-badge)
+![Change Management](https://img.shields.io/badge/Change%20Management-FFB000?style=for-the-badge)
+![AI Workflows](https://img.shields.io/badge/AI%20Workflows-58A6FF?style=for-the-badge)
 
 </div>
 
