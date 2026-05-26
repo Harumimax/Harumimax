@@ -2,12 +2,12 @@
 
 <div align="center">
 
-### SDM at Nexign • Building WordKeeper
+### SDM at Nexign • Management • Product Development • Change Management
 
 <br>
 
 <a href="https://github.com/Harumimax">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&color=58A6FF&center=true&vCenter=true&width=700&lines=PHP+%7C+Python+%7C+Java;Laravel+%26+Livewire+Developer;Building+WordKeeper;Learning+AI+Agents+%26+Automation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&color=58A6FF&center=true&vCenter=true&width=850&lines=Management+%7C+Teams+%7C+Resources;Product+Development+%26+Delivery;Change+Management+%26+Processes;Technical+Background%3A+PHP+%7C+Python+%7C+Java;Building+WordKeeper+with+AI+Workflows" />
 </a>
 
 </div>
@@ -18,17 +18,29 @@
 
 - 🇷🇺 Maksim from Saint Petersburg
 - 💼 SDM at **Nexign**
+- 👥 Focused on **team management, resources, delivery and product development**
+- 🔄 Interested in **change management, process improvement and automation**
 - 🎓 Studied at **Hexlet**
-- 🧠 Interested in:
-  - Laravel & backend development
-  - AI agents
-  - automation
-  - product development
-- ⚡ Building personal projects and experimenting with AI workflows
+- 🧠 Technical background: **PHP, Python, Java**
+- ⚡ Building **WordKeeper** and exploring AI-assisted workflows
 
 ---
 
-## 🛠 Tech Stack
+## 🧭 What I Do
+
+<div align="left">
+
+![Management](https://img.shields.io/badge/-Management-1F6FEB?style=for-the-badge)
+![Team Leadership](https://img.shields.io/badge/-Team%20Leadership-0E8A16?style=for-the-badge)
+![Resource Management](https://img.shields.io/badge/-Resource%20Management-8250DF?style=for-the-badge)
+![Product Development](https://img.shields.io/badge/-Product%20Development-F85149?style=for-the-badge)
+![Change Management](https://img.shields.io/badge/-Change%20Management-FFB000?style=for-the-badge)
+
+</div>
+
+---
+
+## 🛠 Technical Background
 
 <div align="left">
 
@@ -41,7 +53,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AI Workflows](https://img.shields.io/badge/-AI%20Workflows-58A6FF?style=for-the-badge)
 
 </div>
 
@@ -50,7 +62,11 @@
 ## 🌟 Featured Projects
 
 ### 📘 WordKeeper
+
 Personal dictionary web app for learning foreign words.
+
+For me, this project is not only about code.  
+It is also about **product thinking, iterative development, user experience, automation and AI-assisted workflows**.
 
 **Stack:** Laravel 13 • Livewire 4 • PostgreSQL
 
@@ -63,13 +79,13 @@ Personal dictionary web app for learning foreign words.
 
 | Project | Description |
 |---|---|
-| [project-lvl1-s482](https://github.com/Harumimax/project-lvl1-s482) | First programming project |
+| [project-lvl1-s482](https://github.com/Harumimax/project-lvl1-s482) | First educational programming project |
 | [php-project-lvl2](https://github.com/Harumimax/php-project-lvl2) | CLI utilities and architecture practice |
-| [php-project-lvl3](https://github.com/Harumimax/php-project-lvl3) | Advanced PHP project |
+| [php-project-lvl3](https://github.com/Harumimax/php-project-lvl3) | Advanced PHP learning project |
 
 ---
 
-### 🃏 Card Games on Python
+### 🃏 Python Card Games
 
 Implemented classic card games:
 
@@ -92,20 +108,22 @@ Using Python and OOP principles.
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Areas of Interest
 
-<div align="left">
-
-<a href="https://github.com/Harumimax">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
+- Engineering Management
+- Team Leadership
+- Resource Management
+- Product Development
+- Delivery Management
+- Change Management
+- Process Improvement
+- AI Agents & Automation
+- Developer Experience
 
 ---
 
 <div align="center">
 
-### ⚡ “Code. Learn. Build. Repeat.”
+### ⚡ Management mindset with technical background
 
 </div>
