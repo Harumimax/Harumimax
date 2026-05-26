@@ -25,7 +25,7 @@
 ## 🚀 About Me
 
 - 🇷🇺 Maksim from Saint Petersburg
-- 💼 SDM at **Nexign**
+- 💼 SDM at **MegaFon**
 - 👥 Focused on **team management, resources, delivery and product development**
 - 🔄 Interested in **change management, process improvement and automation**
 - 🎓 Studied at **Hexlet**
