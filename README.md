@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### SDM at Nexign • PHP Developer • Building WordKeeper
+### SDM at Nexign • Building WordKeeper
 
 <br>
 
