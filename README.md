@@ -30,7 +30,7 @@
 - 🔄 Interested in **change management, process improvement and automation**
 - 🎓 Studied at **Hexlet**
 - 🧠 Technical background: **PHP, Python, Java**
-- ⚡ Building **WordKeeper** and exploring AI-assisted workflows
+- ⚡ Building **WordKeeper** and **SimpleGant** with AI-assisted workflows
 
 ---
 
@@ -80,6 +80,20 @@ It is also about **product thinking, iterative development, user experience, aut
 
 🔗 Visit it:  
 [https://wordkeeper.space/](https://wordkeeper.space/)
+
+---
+
+### 📊 SimpleGant
+
+A lightweight, Excel-inspired web application for creating and sharing project Gantt charts.
+
+The project focuses on **clear visual planning, task hierarchy, flexible timelines and a simple alternative to complex project management tools**.
+
+**Stack:** React • TypeScript • NestJS • PostgreSQL • Prisma • Docker
+
+🔗 Try it: [https://simplegant.duckdns.org/](https://simplegant.duckdns.org/)
+
+💻 Source code: [github.com/Harumimax/SimpleGant](https://github.com/Harumimax/SimpleGant)
 
 ---
 
